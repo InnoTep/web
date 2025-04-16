@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>InnoTep Research Group</title><link>https://innotep.github.io/en/</link><description>Recent content on InnoTep Research Group</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://innotep.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Proposal for a security and privacy enhancement system for private smart environments</title><link>https://innotep.github.io/en/publications/iotelsevier/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://innotep.github.io/en/publications/iotelsevier/</guid><description/></item><item><title>Smart Textile Technology for the Monitoring of Mental Health</title><link>https://innotep.github.io/en/publications/etextilesmentalh/</link><pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate><guid>https://innotep.github.io/en/publications/etextilesmentalh/</guid><description/></item><item><title>SmartDiabetes</title><link>https://innotep.github.io/en/projects/smartdiabetes/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://innotep.github.io/en/projects/smartdiabetes/</guid><description>SMARTDIABETES solution enhances diabetes care through a data-driven digital ecosystem. It integrates the SocialDiabetes tool for patient self-management and remote monitoring across three clinical sites. The project creates a value-based healthcare reimbursement model and delivers a comprehensive operating blueprint for healthcare organizations, including care pathways, user support, and training strategies. By prioritizing adoption, acceptance, and sustainability, SMARTDIABETES puts patients and care providers at the center, ensuring long-term impact through collaboration among clinical, academic, and business experts.</description></item><item><title>Our team</title><link>https://innotep.github.io/en/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://innotep.github.io/en/team/</guid><description>&lt;h2 id="teaching-and-research-staff">Teaching and Research Staff&lt;/h2>
+&lt;div class="team-grid">
+ &lt;div class="team-member">
+ &lt;img src="https://innotep.github.io/images/team/mvb.jpg" alt="Dr. Mario Vega-Barbas" class="team-member-photo" />
+ &lt;h3 class="team-member-name">Dr. Mario Vega-Barbas&lt;/h3>
+ &lt;p class="team-member-title">Head of the research group&lt;/p>
+ &lt;div class="team-member-links">
+ 
+ &lt;a href="https://www.linkedin.com/in/mariovega/" target="_blank" class="team-member-link">&lt;i class="fa fa-linkedin fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ 
+ &lt;a href="https://github.com/mariovegabarbas" target="_blank" class="team-member-link">&lt;i class="fa fa-github fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ &lt;a href="https://scholar.google.es/citations?user=EvmsI98AAAAJ&amp;amp;hl=es" target="_blank" class="team-member-link">&lt;i class="fa fa-google-scholar fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ &lt;a href="https://orcid.org/my-orcid?orcid=0000-0003-4506-6284" target="_blank" class="team-member-link">&lt;i class="fa-brands fa-orcid fa-lg">&lt;/i>&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+
+&lt;div class="team-member">
+ &lt;img src="https://innotep.github.io/images/team/ivanpau.jpg" alt="Dr. Iván Pau de la Cruz" class="team-member-photo" />
+ &lt;h3 class="team-member-name">Dr. Iván Pau de la Cruz&lt;/h3>
+ &lt;p class="team-member-title">Full professor&lt;/p>
+ &lt;div class="team-member-links">
+ 
+ &lt;a href="https://www.linkedin.com/in/ipau/" target="_blank" class="team-member-link">&lt;i class="fa fa-linkedin fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ 
+ &lt;a href="https://github.com/orgs/InnoTep/people/ipcruz" target="_blank" class="team-member-link">&lt;i class="fa fa-github fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ 
+ &lt;a href="https://orcid.org/0000-0002-1183-4401" target="_blank" class="team-member-link">&lt;i class="fa-brands fa-orcid fa-lg">&lt;/i>&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+
+&lt;div class="team-member">
+ &lt;img src="https://innotep.github.io/images/team/marisa.jpg" alt="Dra. Marisa Martín-Ruiz" class="team-member-photo" />
+ &lt;h3 class="team-member-name">Dra. Marisa Martín-Ruiz&lt;/h3>
+ &lt;p class="team-member-title">Professor&lt;/p>
+ &lt;div class="team-member-links">
+ 
+ &lt;a href="https://www.linkedin.com/in/maria-luisa-mart%C3%ADn-ruiz-0a19b159/" target="_blank" class="team-member-link">&lt;i class="fa fa-linkedin fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="https://orcid.org/0000-0002-4355-3620" target="_blank" class="team-member-link">&lt;i class="fa-brands fa-orcid fa-lg">&lt;/i>&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+
+&lt;div class="team-member">
+ &lt;img src="https://innotep.github.io/images/team/mavalero.jpg" alt="Dr. M.A. Valero Duboy" class="team-member-photo" />
+ &lt;h3 class="team-member-name">Dr. M.A. Valero Duboy&lt;/h3>
+ &lt;p class="team-member-title">Professor&lt;/p>
+ &lt;div class="team-member-links">
+ 
+ &lt;a href="https://www.linkedin.com/in/mavalero/" target="_blank" class="team-member-link">&lt;i class="fa fa-linkedin fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ 
+ 
+ &lt;a href="https://scholar.google.com/citations?user=nOMgoD4AAAAJ&amp;amp;hl=es&amp;amp;oi=ao" target="_blank" class="team-member-link">&lt;i class="fa fa-google-scholar fa-lg">&lt;/i>&lt;/a>
+ 
+ 
+ &lt;a href="https://orcid.org/0000-0001-7517-0344" target="_blank" class="team-member-link">&lt;i class="fa-brands fa-orcid fa-lg">&lt;/i>&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+
+&lt;div class="team-member">
+ &lt;img src="https://innotep.github.io/images/team/ccarrillo.jpg" alt="Dr. Carlos Carrillo" class="team-member-photo" />
+ &lt;h3 class="team-member-name">Dr. Carlos Carrillo&lt;/h3>
+ &lt;p class="team-member-title">Professor&lt;/p></description></item></channel></rss>
